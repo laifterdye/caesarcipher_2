@@ -62,7 +62,7 @@ include "convert.php";
 </head>
  
 <body>
-<div class="jumbotron" id="home">
+<div class="jumbotron" id="home" style="background:#00FFFF">
       <div class="container">
         <div class="text-center">
           
